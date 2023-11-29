@@ -140,4 +140,4 @@ resource "yandex_compute_snapshot" "snapshot-1" {
 ```
 ![1](https://github.com/znak72/klaster4/blob/main/SCR-20231129-jnga.png)
 ![2](https://github.com/znak72/klaster4/blob/main/SCR-20231129-jnae.png)
-![3](https://github.com/znak72/klaster4/blob/main/SCR-20231129-jnga.png)
+![3](https://github.com/znak72/klaster4/blob/main/SCR-20231129-jnij.png)
